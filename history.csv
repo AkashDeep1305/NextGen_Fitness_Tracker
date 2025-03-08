@@ -1,0 +1,3 @@
+DateTime,Userid,Gender,Age,Height (cm),Weight (Kg),BMI,Duration (min),Heart Rate (bpm),Body Temperature (°C),Exercise,Calories (kcal),Method
+2025-02-22 08:11:34,36f799ff,Female,28,180,85,26.23,40,130,37.0,Running,427.21,Heart Rate-Based
+2025-02-22 08:41:35,c04901f9,Male,25,169,65,22.76,40,120,37.0,Jump Rope,433.33,MET-Based
