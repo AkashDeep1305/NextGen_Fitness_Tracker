@@ -7,9 +7,11 @@ The **Personal Fitness Tracker** is a **Streamlit web application** that helps u
 
 ## 📸 Screenshots
 
-![Home Page](assets/home_page.png)
+### 🔹 Home Page
+![Home Page](https://github.com/AkashDeep1305/NextGen_Fitness_Tracker/blob/main/Assets/snap-1.png?raw=true)
 
-![User Result](assets/user_input.png)
+### 🔹 Result
+![User Result](https://github.com/AkashDeep1305/NextGen_Fitness_Tracker/blob/main/Assets/Snap-2.png?raw=true)
 
 ---
 
